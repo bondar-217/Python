@@ -8,5 +8,5 @@ def print_powers_of_two(N):
         result = 2 ** power  # Вычисляем следующее значение степени двойки
 
 # Пример использования:
-N = 20
+N = 10
 print_powers_of_two(N)
